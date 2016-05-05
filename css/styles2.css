@@ -1,0 +1,16 @@
+h2.intro {
+  color: brown;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+p.intro {
+  font-style: italic;
+  font-size: 20px;
+}
+
+img.intro {
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
